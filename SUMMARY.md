@@ -13,4 +13,5 @@
        * [2.1.5 删除任务](chapter2/chapter2_1_5.md)
        * [2.1.6 导出数据](chapter2/chapter2_1_6.md)
    * [2.2 历史性能](chapter2/chapter2_2.md)
+       * 2.2.1 创建历史性能任务
 
