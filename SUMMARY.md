@@ -7,5 +7,5 @@
 * [2. 性能模块实现流程](chapter2/chapter2.md)
    * [2.1实时性能](chapter2/chapter2_1.md)
        * [2.1.1 创建任务](chapter2/chapter2_1_1.md)
-       * 2.1.2创建图表
+       * [2.1.2创建图表](chapter2/chapter2_1_2.md)
 
